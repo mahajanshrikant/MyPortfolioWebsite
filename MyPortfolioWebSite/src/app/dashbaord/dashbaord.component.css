@@ -1,0 +1,20 @@
+div {
+    border: 1px solid gray;
+    padding: 8px;
+  }
+  
+  h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #4CAF50;
+    font-family: "Audiowide", sans-serif;
+  }
+  
+  p {
+    text-indent:45px;
+    text-align: justify;
+    letter-spacing: 3px;
+  }
+  
+ 
+  
